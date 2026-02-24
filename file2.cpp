@@ -25,15 +25,17 @@ int main (){
 #include <iostream>
 using namespace std;
 
-int main (){
+int main ()
+{
     int umur = 15;
     umur = 20;
 
     cout << "ini string" << endl;
     cout << 123 << endl; 
     cout << umur;
+}
 
-    #include <iostream>
+#include <iostream>
 using namespace std;
 
 int main (){
@@ -56,4 +58,16 @@ int main (){
     cout << 123 << endl; 
     cout << umur;
 }
+
+#include <iostream>
+using namespace std;
+
+int main (){
+    int umur = 15;
+    umur = 20;
+
+    cout << "ini string" << endl;
+    cout << 123 << endl; 
+    cout << umur;
 }
+
